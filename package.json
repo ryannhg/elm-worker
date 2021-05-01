@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "elm": "*"
+    "elm": "0.19.1-5"
   }
 }
